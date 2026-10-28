@@ -1,0 +1,5 @@
+pandas
+matplotlib
+seaborn>=0.13
+jupyter
+ipykernel
